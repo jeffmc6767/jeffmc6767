@@ -5,7 +5,6 @@
     <tr>
       <th align="center">Level</th>
       <th align="center">Languages</th>
-      <th align="center">Frameworks & Libraries</th>
       <th align="center">Tools</th>
       <th align="center">Platforms</th>
     </tr>
@@ -16,9 +15,6 @@
       <td align="center"><b>Executing</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" />
-      </td>
-      <td align="center">
-        <!-- Add executing frameworks here if needed -->
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="40" alt="Ollama" />
@@ -34,9 +30,6 @@
       <td align="center"><b>Expanding</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-      </td>
-      <td align="center">
-        <!-- Add expanding frameworks here if needed -->
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino IDE" />
@@ -56,9 +49,6 @@
         <img src="https://skillicons.dev/icons?i=cpp,js" alt="Languages" />
       </td>
       <td align="center">
-        <!-- Add exploring frameworks here if needed -->
-      </td>
-      <td align="center">
         <img src="https://img.shields.io/badge/Onshape-111111?style=for-the-badge&logo=onshape&logoColor=white" height="40" alt="Onshape" />
       </td>
       <td align="center">
@@ -67,7 +57,6 @@
     </tr>
   </tbody>
 </table>
-
 <!--
 **jeffmc6767/jeffmc6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
