@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Im 14 years old and I like designing stuff.
+
+So far, I've  designed custom PCB's, cadded cool projects and 3d printed things. 
+
+Currently, im working on a custom autonomous drone flight controler which would fly missions autonomously and complete tasks. It will also be able to do freestyle!!
+
+Hope you find something cool in my GitHub!
+
+
+
 <table align="center">
   <thead>
     <tr>
