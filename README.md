@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im 14 years old and I like designing stuff.
+Im 14 years old and I like cadding and printing cool stuff.
 
 So far, I've  designed custom PCB's, cadded cool projects and 3d printed things. 
 
