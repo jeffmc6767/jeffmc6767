@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im 14 years old and I like designing cool stuff.
+Im 15 years old and I like designing cool stuff.
 
 So far, I've  designed custom PCB's, cadded cool projects and vibe coded some cool stuff(might be private though). 
 
